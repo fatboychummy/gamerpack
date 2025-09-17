@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-additions.pw.toml"
-hash = "3d75e1f6f0274f983bbeb6003b4f0e04cc163d03c0b0529d58bb0ae45e2dfd33"
+hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "10bd422174e0356a5c713840dcfac449b2aa6bc36b86c8ed9dea59dd8c7770b6"
+hash = "6d858df0f5a42aa5cb167b0c41cbb8290a304932f0480810495ad88420e92adf"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/cgs.pw.toml"
-hash = "6639a240705a320ba8a668121360de1a48b1a34da4bacdba53a488ad327a9efd"
+hash = "7ba067cb25d45afa74380efe5cb255426cfac778a4ff7429c3483c72a033baf6"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/goety-gotta-summon-em-all!.pw.toml"
-hash = "9e066b877d431eefae847f6bf5a977b2c7681991668e195d11d3d61f1cc902d2"
+hash = "0f3aea38bb25469631563ffde39e196c72e0d0bf156ae1ecd7254a43e2ece9ca"
 metafile = true
 
 [[files]]
@@ -965,17 +965,17 @@ metafile = true
 
 [[files]]
 file = "mods/majrusz-library.pw.toml"
-hash = "7744f14b3843563fc0a8eda838fcd876d257e11d2dca0ea545abfdd033879d64"
+hash = "0ef781c42a9409729bab1b76403b1a1dcd1eae6e22ebbdedab180acd2a64952c"
 metafile = true
 
 [[files]]
 file = "mods/majruszs-accessories.pw.toml"
-hash = "85c0c3c3ae29e747e77076f01a3f347e43e53cb014e7b9927efcab117a86a377"
+hash = "d9904024d10327880cc4c0b264bfde175f8ac985bf23772053aed3a0adb9ee09"
 metafile = true
 
 [[files]]
 file = "mods/majruszs-progressive-difficulty.pw.toml"
-hash = "69ea73a1bfa8e0068ee8eddba8df080d4a27c0d7ae03cec34ee5ea430bf32d60"
+hash = "6a294645da1a75d2c5c09f538905ec51301e8e5847ef8e0c8a0f239125f57f38"
 metafile = true
 
 [[files]]
@@ -1040,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3aeea16106f14196bc867a95b2a3c42f3a383218a055e56125d22a7a34f80ccf"
+hash = "c1eb189d7a4eed52389aa46fc6dc3c5f140389c5748f7bec0faac01a84a60817"
 metafile = true
 
 [[files]]
@@ -1091,6 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/nuclear-bomb-bay.pw.toml"
 hash = "25be27358a2bf511bc6993790d85557712ea8f5a1d847fa21aa6cecc7a197314"
+metafile = true
+
+[[files]]
+file = "mods/nukateams-gun-lib.pw.toml"
+hash = "ad5efebd1f833e5b35fb767b86cc947f898879b99569e2fb18d46f19d6eace41"
 metafile = true
 
 [[files]]
@@ -1460,12 +1465,12 @@ metafile = true
 
 [[files]]
 file = "mods/storage-delight.pw.toml"
-hash = "870f872d0ae2cb06d01f1e084e67f69925571baf63c68d9d712f9a6c3fbf67f0"
+hash = "25e0793ab87d3b02131b8570982d485d5680f95df2455672e0bc2082b03b3ea9"
 metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "006ba5a1b8aecce8b89bbac8995d1ac71f6eddf90df4e58a26ad5281980c91df"
+hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
 metafile = true
 
 [[files]]
@@ -1660,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "b986965c87d787d21c7f7d987367ee2a26b05a12307f98eb216f390cc7cbc011"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]
@@ -1710,12 +1715,12 @@ metafile = true
 
 [[files]]
 file = "mods/underground-rivers.pw.toml"
-hash = "f559f0ff8157b9393fff395441ba4b98eae44cf2b39621063d7d248e79c57516"
+hash = "5be3e8d3647d11f749a1780d0e898da7312e8b7c4305e5f70de5ba407b89c9a7"
 metafile = true
 
 [[files]]
 file = "mods/untitled-duck-mod.pw.toml"
-hash = "c89920c3e441eecf6b3b0c16d694c1bebda517f5fb4688288933f5fe8e5b9b23"
+hash = "b1a80f482cc6dbae7d6c759fa1c6f3e35f92f21e142e1ce27fc891f80cc1e4b1"
 metafile = true
 
 [[files]]

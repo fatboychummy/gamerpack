@@ -1,13 +1,13 @@
 name = "Storage Delight"
-filename = "storagedelight-2024.07.23-1.20.1-forge.jar"
+filename = "storagedelight-25.06.26-1.20-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/7upKP7jR/storagedelight-2024.07.23-1.20.1-forge.jar"
-hash-format = "sha1"
-hash = "66394d73b5aef026698ad9f62e5d0ee65a6e1c70"
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/1aGEjvyJ/storagedelight-25.06.26-1.20-forge.jar"
+hash-format = "sha512"
+hash = "cbc98638b77f914ba59ac4b110c1c7af3f656cab56e763b3a847a6b0d2e608865cd0229b10def8d12981775adf01106ff6e2333696f4d0861cba410ba30e181a"
 
 [update]
 [update.modrinth]
 mod-id = "LTTvOp5L"
-version = "7upKP7jR"
+version = "1aGEjvyJ"

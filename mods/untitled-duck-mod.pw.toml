@@ -1,13 +1,13 @@
 name = "Untitled Duck Mod"
-filename = "untitledduckmod-1.2.0-forge-1.20.1.jar"
+filename = "untitledduckmod-1.2.0-hotfix-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ojFjz7JF/versions/kZkwgjxe/untitledduckmod-1.2.0-forge-1.20.1.jar"
-hash-format = "sha1"
-hash = "9a34966a2a24ad96a3a6219339fc0aeb57d4e82b"
+url = "https://cdn.modrinth.com/data/ojFjz7JF/versions/6F3uFgG5/untitledduckmod-1.2.0-hotfix-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "6ccbce1c049987f4f52ea539e926623ad966357a28599c56d74fb6d25fa04d05be292df8b7a5ec09bb621a94c456c07e52b03c5f0f25baa22735ce8bb1e7957f"
 
 [update]
 [update.modrinth]
 mod-id = "ojFjz7JF"
-version = "kZkwgjxe"
+version = "6F3uFgG5"
