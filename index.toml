@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
+hash = "a9b13d984ba6aac71d25b24f171671456e75415ce4fe2ff43e7bb404594febd1"
 metafile = true
 
 [[files]]
@@ -1324,6 +1324,11 @@ hash = "5f67406870237320fd17a3a464d8a6108672f9e80bc0212848b9d50a84b91796"
 metafile = true
 
 [[files]]
+file = "mods/shadowizardlib.pw.toml"
+hash = "6ccb02f9a32cddd9903cd688d27c3e99082aebb7c9e25713425e2ebf50246e2f"
+metafile = true
+
+[[files]]
 file = "mods/showcase-item.pw.toml"
 hash = "b9e82a71c1e03c16cced1ea055f4bfa18139ff7f2b1d7108061f8adcd3214ddc"
 metafile = true
@@ -1605,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "da92e9606b616857fd108d05d713d93cd9f6c586ed00ca0b696cc90f19eba6b4"
+hash = "51a8da648db0c823f616ed1786eb665dae18f98c1ec4535f2a2c6b92bdecf3ca"
 metafile = true
 
 [[files]]

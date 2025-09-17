@@ -1,0 +1,13 @@
+name = "ShadowizardLib"
+filename = "shadowizardlib-1.20.1-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DNECjG17/versions/RFVm8UC7/shadowizardlib-1.20.1-1.2.5.jar"
+hash-format = "sha1"
+hash = "8ce668388770e62a8735090bf5410d13e4b89b29"
+
+[update]
+[update.modrinth]
+mod-id = "DNECjG17"
+version = "RFVm8UC7"
