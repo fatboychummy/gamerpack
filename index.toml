@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-creo.pw.toml"
-hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
+hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
 metafile = true
 
 [[files]]
@@ -696,11 +696,6 @@ metafile = true
 [[files]]
 file = "mods/goety-cataclysm.pw.toml"
 hash = "f20c21eecd7491229a5fea3c76c215ba764041d4722d227356470f8b1896a8bc"
-metafile = true
-
-[[files]]
-file = "mods/goety-gotta-summon-em-all!.pw.toml"
-hash = "0f3aea38bb25469631563ffde39e196c72e0d0bf156ae1ecd7254a43e2ece9ca"
 metafile = true
 
 [[files]]
