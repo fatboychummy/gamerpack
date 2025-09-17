@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/etstlib.pw.toml"
-hash = "736d8dc73e88b2f5890018fa441f5931d4d5c7323f2d5478b15d26dd1b924b78"
+hash = "4dbe256cb50dc2829ae0abdd5e46ac6b16a8e0ee01ba65bc9fc656e14726ae04"
 metafile = true
 
 [[files]]
@@ -1370,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "8ecaeac6f1a8ac1163686bea4795894ee51600f2f49d8b427c395ccd15dcd3a8"
+hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
 
 [[files]]
