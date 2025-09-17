@@ -1,0 +1,13 @@
+name = "Sky Whale Ship"
+filename = "sky_whale_ship-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uiq88Vjc/versions/jtYyJOi0/sky_whale_ship-1.20.1.jar"
+hash-format = "sha1"
+hash = "225c7098c703fc0b08382262b0c2436bf2ba47eb"
+
+[update]
+[update.modrinth]
+mod-id = "Uiq88Vjc"
+version = "jtYyJOi0"

@@ -1,0 +1,13 @@
+name = "NaNny"
+filename = "NaNny-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EpIGT2g/versions/xmdj69Pa/NaNny-1.0.1.jar"
+hash-format = "sha1"
+hash = "1e716311028b1c3147b569b89cd6697ccd5874d4"
+
+[update]
+[update.modrinth]
+mod-id = "6EpIGT2g"
+version = "xmdj69Pa"

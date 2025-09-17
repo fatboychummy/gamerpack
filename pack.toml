@@ -1,0 +1,13 @@
+name = "Gamerpack"
+author = "The Gamers"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "705a663dbc74eae7331c6ab2018c39c7868066222e2c55314ac3ae1c4fac00b1"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

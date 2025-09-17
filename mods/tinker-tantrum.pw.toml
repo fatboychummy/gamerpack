@@ -1,0 +1,13 @@
+name = "Tinker Tantrum"
+filename = "tinkertantrum-neo-1.1.2-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04b33e1d3596ae20d0814fea59e2acaf57a8877a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6925626
+project-id = 1295730

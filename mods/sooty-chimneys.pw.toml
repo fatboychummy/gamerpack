@@ -1,0 +1,13 @@
+name = "Sooty Chimneys"
+filename = "sootychimneys-1.20.1-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/sygsmg1N/sootychimneys-1.20.1-1.2.4.jar"
+hash-format = "sha1"
+hash = "b278eb171c966487b6f969074724d094905ad9f3"
+
+[update]
+[update.modrinth]
+mod-id = "b3w1XM9H"
+version = "sygsmg1N"

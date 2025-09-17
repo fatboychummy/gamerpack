@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm"
+filename = "dummmmmmy-1.20-2.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/zAahRq2q/dummmmmmy-1.20-2.0.9.jar"
+hash-format = "sha1"
+hash = "782d16edca6fa22fb72fa825cec39117bbb7e78a"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "zAahRq2q"

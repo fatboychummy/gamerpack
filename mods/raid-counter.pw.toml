@@ -1,0 +1,13 @@
+name = "Raid Counter"
+filename = "raidcounter-1.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBN8JFeW/versions/vD7Pk36H/raidcounter-1.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "80ddc5817e6d1f2247a4d69b64fa8a3ed7e460c4"
+
+[update]
+[update.modrinth]
+mod-id = "eBN8JFeW"
+version = "vD7Pk36H"

@@ -1,0 +1,13 @@
+name = "Jaffactory"
+filename = "jaffactory-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fadd8d66278fa3a4b113fbc3f76d1989191d6e18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6458682
+project-id = 1144067

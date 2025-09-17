@@ -1,0 +1,13 @@
+name = "Cocktails Delight"
+filename = "Cocktails-Delight-1.2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hzcliQdE/versions/loPZn1Jj/Cocktails-Delight-1.2.0.2.jar"
+hash-format = "sha1"
+hash = "a4de05ccde6822df8a54324ea7b06bd50a7cea2a"
+
+[update]
+[update.modrinth]
+mod-id = "hzcliQdE"
+version = "loPZn1Jj"

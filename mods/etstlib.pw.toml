@@ -1,0 +1,13 @@
+name = "EtSTLib"
+filename = "etstlib-3.0.0-beta.7fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H9Ib63lK/versions/4UMf36DM/etstlib-3.0.0-beta.7fix.jar"
+hash-format = "sha1"
+hash = "2d6229b676ccb02bcaa70382f73694c73adec9e4"
+
+[update]
+[update.modrinth]
+mod-id = "H9Ib63lK"
+version = "4UMf36DM"

@@ -1,0 +1,13 @@
+name = "Crafting on a Stick"
+filename = "crafting-on-a-stick-1.20.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tg5fXO1x/versions/o6RKzjVH/crafting-on-a-stick-1.20.1-1.1.5.jar"
+hash-format = "sha1"
+hash = "5531e149477b9e540684a296fb196238bf1d85e8"
+
+[update]
+[update.modrinth]
+mod-id = "Tg5fXO1x"
+version = "o6RKzjVH"

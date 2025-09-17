@@ -1,0 +1,13 @@
+name = "Tinker's Planner  Reborn"
+filename = "tconplanner-forge-1.20.1-1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8z96oVH/versions/e6U0IXMg/tconplanner-forge-1.20.1-1.3.jar"
+hash-format = "sha1"
+hash = "8ea1e44c224d81b86ce241e40875476c2e53c962"
+
+[update]
+[update.modrinth]
+mod-id = "g8z96oVH"
+version = "e6U0IXMg"

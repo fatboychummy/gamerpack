@@ -1,0 +1,13 @@
+name = "Untitled Duck Mod"
+filename = "untitledduckmod-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ojFjz7JF/versions/kZkwgjxe/untitledduckmod-1.2.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "9a34966a2a24ad96a3a6219339fc0aeb57d4e82b"
+
+[update]
+[update.modrinth]
+mod-id = "ojFjz7JF"
+version = "kZkwgjxe"

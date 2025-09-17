@@ -1,0 +1,13 @@
+name = "Updating World Icon"
+filename = "Updating World Icon-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a1c1df2f21fdcaa0b7c4748e3393f68f41a391a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4633262
+project-id = 885046

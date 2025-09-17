@@ -1,0 +1,13 @@
+name = "Goety: gotta summon em all!"
+filename = "goety_gotta_summon_em_all-1.0.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7bfqDI0k/versions/WrDB4wlF/goety_gotta_summon_em_all-1.0.6-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "9a9c7ad287444446177349b296f13f4cb79359ad"
+
+[update]
+[update.modrinth]
+mod-id = "7bfqDI0k"
+version = "WrDB4wlF"

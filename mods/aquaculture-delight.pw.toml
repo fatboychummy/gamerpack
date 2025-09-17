@@ -1,0 +1,13 @@
+name = "Aquaculture Delight"
+filename = "aquaculturedelight-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U9GJqWrI/versions/Qn9bVRpQ/aquaculturedelight-1.1.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "6ae62b5e765d9e4e303ba975cc45edf3a354346e"
+
+[update]
+[update.modrinth]
+mod-id = "U9GJqWrI"
+version = "Qn9bVRpQ"

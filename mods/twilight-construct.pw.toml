@@ -1,0 +1,13 @@
+name = "Twilight Construct"
+filename = "twilight_construct-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47d5973c05d8efda2f6cb4338c16183b1510999c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6462175
+project-id = 1218481
