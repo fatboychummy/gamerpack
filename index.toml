@@ -6,11 +6,11 @@ hash = "6e7b78978bd6dab7789f0110d6cb5507f898cb9742388598fa3a8b78c63bc13f"
 
 [[files]]
 file = "curseforge.txt"
-hash = "6652fd9e889d0a0d2909b9a44a3147d7069f4105b5a9c60ea858b5b983a155a6"
+hash = "caa05b8ca8c506777d2a0868f38481c1ec11c219d81cc7a39b831ada4fa9a474"
 
 [[files]]
 file = "modrinth.txt"
-hash = "fdbbcc5e4129610fa304d26ced07889dc01db50aa7f29d3939e1518c8e2eb1fc"
+hash = "d57dee3e08248cecd4dd3f2c91c8b037e039455df692084a47907a576c3f6976"
 
 [[files]]
 file = "mods/ad-astra-extra-additions.pw.toml"
@@ -1424,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "8aab815b0785d3478e212ce1a594c0faeb0a98d1b74e13f23649bcefa7f37e29"
+hash = "8dbf0b7e29068a9dad871f8d7049be939d3f6bf58192b6ed8814225964095317"
 metafile = true
 
 [[files]]
