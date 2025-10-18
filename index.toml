@@ -1410,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "5559d4f8ae35c3d1b420180b8fccd5c50aef080c5d94919d1cf584208b8fdf11"
+hash = "8aab815b0785d3478e212ce1a594c0faeb0a98d1b74e13f23649bcefa7f37e29"
 metafile = true
 
 [[files]]
@@ -1445,7 +1445,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
+hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
 metafile = true
 
 [[files]]
