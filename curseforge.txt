@@ -145,3 +145,8 @@ https://www.curseforge.com/minecraft/mc-mods/majruszs-accessories
 https://www.curseforge.com/minecraft/mc-mods/wonderful-enchantments
 https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty
 https://www.curseforge.com/minecraft/mc-mods/mighty-mail
+https://www.curseforge.com/minecraft/mc-mods/revive-me
+https://www.curseforge.com/minecraft/mc-mods/invocore-utility-mod
+https://www.curseforge.com/minecraft/mc-mods/simple-backups
+https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
+https://www.curseforge.com/minecraft/mc-mods/toggle-frames

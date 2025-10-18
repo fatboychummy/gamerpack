@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/reviveme-common.toml"
+hash = "6e7b78978bd6dab7789f0110d6cb5507f898cb9742388598fa3a8b78c63bc13f"
+
+[[files]]
 file = "curseforge.txt"
 hash = "6652fd9e889d0a0d2909b9a44a3147d7069f4105b5a9c60ea858b5b983a155a6"
 
@@ -874,6 +878,11 @@ hash = "588e222f5cf824fb8317bd3800752c8a4a86f3c707f70b35420f8c9a9599fe43"
 metafile = true
 
 [[files]]
+file = "mods/invocore-utility-mod.pw.toml"
+hash = "86ca24604c0ba18cdda3d839fc521f43cf414b25eee9b4c2404652b70236a9b5"
+metafile = true
+
+[[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "466890884f695c1c058508c5c49e7717e666c7b17bc8a2fbffa450a5d9a9cbe4"
 metafile = true
@@ -1354,6 +1363,11 @@ hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
+file = "mods/revive-me.pw.toml"
+hash = "e1beac2a3531e2ea88ee476de99c5d20ce744690c4ed184c8ab79da2f39265ee"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
@@ -1521,6 +1535,11 @@ metafile = true
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
 hash = "a37d70f5d84b3ba9a6c34e38c7e660734974bb114fe29e1e13d7e1a66e16d46b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "01d628d71fd20a235492879b37853c2301066aee4234df0acd62c6990b319d26"
 metafile = true
 
 [[files]]
@@ -1751,6 +1770,11 @@ metafile = true
 [[files]]
 file = "mods/tntsweeper.pw.toml"
 hash = "a948d67e38f03b0138085e0c5921a4d25138c724e83e0dfe545a2974006aebd3"
+metafile = true
+
+[[files]]
+file = "mods/toggle-frames.pw.toml"
+hash = "4496eb26faf74128170281aa6bb8550207e7de818ccb742806e995ce03cbe9e3"
 metafile = true
 
 [[files]]

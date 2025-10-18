@@ -1,0 +1,13 @@
+name = "Toggle Frames"
+filename = "ToggleFrames-v1.0.0-1.20.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "0c6375ffc8167cff14a0c1d43381b21515ac1d71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6242438
+project-id = 1209258
