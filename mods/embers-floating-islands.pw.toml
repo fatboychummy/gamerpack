@@ -1,13 +1,13 @@
 name = "Ember's Floating Islands"
-filename = "floating_islands-1.3.7.jar"
+filename = "floating_islands-1.3.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aac2f39222588626266bdae7fb4f9b0a53b1523e"
+hash = "9483695e0cc327896aa142e1aae1030a20fbeed7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6986557
+file-id = 7061685
 project-id = 1216244

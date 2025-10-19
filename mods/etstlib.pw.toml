@@ -1,13 +1,13 @@
 name = "EtSTLib"
-filename = "etstlib-3.0.0-beta.10.jar"
+filename = "etstlib-3.0.0-beta.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/H9Ib63lK/versions/CCYnGnO7/etstlib-3.0.0-beta.10.jar"
+url = "https://cdn.modrinth.com/data/H9Ib63lK/versions/npSOp6vR/etstlib-3.0.0-beta.12.jar"
 hash-format = "sha512"
-hash = "527f1444223b8aabd73925436d4ecf18dea421480098e3798834fd6fd06c28463974822e1ff8b45e2693eecffaacbbe7ac7b9f66489d11fff3368a689ee0e36a"
+hash = "a28069f94827ca07d4c76eb5f5df09bf9fb94c6718dc938df83c61600b5bf17cf816341ab7ee922b4a66061b03692050dc6a1f0aeb75619e7106f1c3a476f1bd"
 
 [update]
 [update.modrinth]
 mod-id = "H9Ib63lK"
-version = "CCYnGnO7"
+version = "npSOp6vR"

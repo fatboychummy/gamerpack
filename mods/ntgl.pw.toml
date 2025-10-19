@@ -1,13 +1,13 @@
 name = "NukaTeam's Gun Lib"
-filename = "ntgl-1.20.1-2.0.2.jar"
+filename = "ntgl-1.20.1-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5m2kV8xK/versions/Rdv43w0M/ntgl-1.20.1-2.0.2.jar"
-hash-format = "sha1"
-hash = "a17c8d663cc2cddf242abb0c7e740bf75e1537a5"
+url = "https://cdn.modrinth.com/data/5m2kV8xK/versions/8R0KDIQj/ntgl-1.20.1-2.1.1.jar"
+hash-format = "sha512"
+hash = "7f65fbea98c896d0ff3ead8a8af7809e760fe04ad6b61f1d22544bbaa29c4d2974076ccdd62ab88b403c4a57e5cee86d6453e736d499fac6f3c36816da7f2303"
 
 [update]
 [update.modrinth]
 mod-id = "5m2kV8xK"
-version = "Rdv43w0M"
+version = "8R0KDIQj"

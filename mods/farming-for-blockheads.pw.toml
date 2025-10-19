@@ -1,13 +1,13 @@
 name = "Farming for Blockheads"
-filename = "farmingforblockheads-forge-1.20.1-14.0.3.jar"
+filename = "farmingforblockheads-forge-1.20.1-14.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/qaNoU2K7/farmingforblockheads-forge-1.20.1-14.0.3.jar"
-hash-format = "sha1"
-hash = "857ef9feffa03d03c822ba0fa6914e534d6f3eea"
+url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/xPw564r6/farmingforblockheads-forge-1.20.1-14.0.4.jar"
+hash-format = "sha512"
+hash = "7d4c2d2692c7e1d1ba1446962789b5813ef8ada92b1c2476c7cd5a3250a47b595e8358c818234f61e646a24f34547e70e09454aa1c35e9c0693d2402d1111dcb"
 
 [update]
 [update.modrinth]
 mod-id = "4WJZr8JU"
-version = "qaNoU2K7"
+version = "xPw564r6"

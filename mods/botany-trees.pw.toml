@@ -1,13 +1,13 @@
 name = "Botany Trees"
-filename = "BotanyTrees-Forge-1.20.1-9.0.18.jar"
+filename = "BotanyTrees-Forge-1.20.1-9.0.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mvs7RoIW/versions/udhfB3Ut/BotanyTrees-Forge-1.20.1-9.0.18.jar"
-hash-format = "sha1"
-hash = "895528ac9daddff96192a31f68f22c1f4f3ce493"
+url = "https://cdn.modrinth.com/data/mvs7RoIW/versions/BdHEyt0z/BotanyTrees-Forge-1.20.1-9.0.19.jar"
+hash-format = "sha512"
+hash = "966dc1f8ed04805459108ef9889e4ef0d958478cdd88f84b0fe90cc9c4f0e1bfa3dad2579660998c96bf318a5ad17576c6b0043eb17f656eb69723dd353a9cf5"
 
 [update]
 [update.modrinth]
 mod-id = "mvs7RoIW"
-version = "udhfB3Ut"
+version = "BdHEyt0z"
