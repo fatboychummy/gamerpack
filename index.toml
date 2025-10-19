@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+hash = "9a03163aadaad1808d41abd9140160af4541e3f3cb25394cbdfe632fa1efc3de"
 metafile = true
 
 [[files]]
@@ -1754,7 +1754,7 @@ metafile = true
 
 [[files]]
 file = "mods/titles.pw.toml"
-hash = "817938566a81a8ef759fc95b3821b4aa723150d43f1b7fa155d1a7ba407a90b7"
+hash = "2804b870ac2105de4f685be2e3cdffdba399f5ab2b08a42cc9d640fb693646a9"
 metafile = true
 
 [[files]]
@@ -1775,6 +1775,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "43284a55e537cb96d28160cdadab96dfd2ed3712529cc546a1c03313dd99eb46"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
