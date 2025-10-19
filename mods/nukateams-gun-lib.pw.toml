@@ -1,13 +1,13 @@
-name = "[NTGL] NukaTeam's Gun Lib"
-filename = "ntgl-1.20.1-2.1.1.jar"
+name = "NukaTeam's Gun Lib"
+filename = "ntgl-1.20.1-2.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "360e398c3aaefe148bb8ed0c3403e4b5dd9b0751"
+hash = "a17c8d663cc2cddf242abb0c7e740bf75e1537a5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7065176
+file-id = 7001077
 project-id = 998474
