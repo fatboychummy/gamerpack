@@ -208,11 +208,6 @@ hash = "edf861ea17978ed70778c2c6227a4fa4086a22fde8713493d53263fc2dd41d75"
 metafile = true
 
 [[files]]
-file = "mods/better-mob-combat.pw.toml"
-hash = "d84d5e54adfd3ef2a801dc83a52426bf83007957833e3387260562dd5cae2b46"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
 metafile = true
