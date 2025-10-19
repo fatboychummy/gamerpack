@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "1.0.1-client"
-hash = "0d4996d3327e915f50b3ec429bb3fd4a974c6b88d0f8c8ef8443d7e13a11909b"
-
-[[files]]
 file = "config/reviveme-common.toml"
 hash = "6e7b78978bd6dab7789f0110d6cb5507f898cb9742388598fa3a8b78c63bc13f"
 
