@@ -1313,11 +1313,6 @@ hash = "95ea41cca081afc4a03ba8d44f272a8dc8757958025201b7ebf5a98486a7a3cc"
 metafile = true
 
 [[files]]
-file = "mods/rar-compat.pw.toml"
-hash = "29bd4492a283e94d56f1154c61f5523db358b13a46806bb4900b744090cd3dae"
-metafile = true
-
-[[files]]
 file = "mods/rats.pw.toml"
 hash = "8742f15566f6961510617aa80a4ebe3b1e8f02a40591a4fd4f50befa915d7706"
 metafile = true
