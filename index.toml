@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "49a082f19c4310b5d3e7fdfc3a14d4f6ad15d30a2e39abff3ab29682e0c88465"
+hash = "4123cb2c965568652799530427cdd9e94b5f6f463ba3a8e92b715ef7b0ed10eb"
 metafile = true
 
 [[files]]
@@ -565,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "abf68c7b90b93d7223c6ed856e7a4ae89ebdccf7780277e4de6aa3d707f7e27f"
+metafile = true
+
+[[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "ad4828d55f77c233fa1c428378e90007360f22ac4f9516e4c1e8fbac997dacb6"
 metafile = true
 
 [[files]]
@@ -1460,6 +1465,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
+metafile = true
+
+[[files]]
+file = "mods/snekcraft.pw.toml"
+hash = "70c28588f9217c3ec9146798e4ee893d0b3e3bb8650378ccc5c327ad3a8cafa3"
 metafile = true
 
 [[files]]

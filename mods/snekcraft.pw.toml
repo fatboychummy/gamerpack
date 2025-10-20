@@ -1,0 +1,13 @@
+name = "Snekcraft"
+filename = "snekcraft-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75b96e5ccd7d022125e0ee6ca4c5ca7dd73b6e2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5615658
+project-id = 877314
