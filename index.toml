@@ -1553,11 +1553,6 @@ hash = "db29f2318cb648e747408ece7970ad438a41baa9af506937b9af3e7e86a2fea2"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
-metafile = true
-
-[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "25e0793ab87d3b02131b8570982d485d5680f95df2455672e0bc2082b03b3ea9"
 metafile = true
