@@ -1,0 +1,8 @@
+.gitattributes
+.gitignore
+.git/**
+.github/**
+.vscode/**
+.scripts/**
+*.zip
+build.txt
