@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/reviveme-common.toml"
-hash = "6e7b78978bd6dab7789f0110d6cb5507f898cb9742388598fa3a8b78c63bc13f"
-
-[[files]]
 file = "curseforge.txt"
 hash = "caa05b8ca8c506777d2a0868f38481c1ec11c219d81cc7a39b831ada4fa9a474"
 
@@ -1355,11 +1351,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
-metafile = true
-
-[[files]]
-file = "mods/revive-me.pw.toml"
-hash = "e1beac2a3531e2ea88ee476de99c5d20ce744690c4ed184c8ab79da2f39265ee"
 metafile = true
 
 [[files]]
