@@ -29,6 +29,11 @@ hash = "145b382d93c2671ba400140a7268d422d081a795c2d15869460edb4dfc452f7d"
 metafile = true
 
 [[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "eef60282b843573453dcbe58aa10da7371e56552bb6997ca684f44969bb9fd97"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "481a5a34d9b24e02ccef147afd2083de063b61b412b2e6259b891a487ec398ac"
 metafile = true
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -739,8 +744,13 @@ hash = "d871fd6933873234375b855279c63968041b0433b841df52c412692b442ee244"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e47b4547b51bcd116aa7734ccd185a4edbcec4caf7ff80ef195ada4b727f5f15"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "cdb49cbc2bf1bd15a0be40373b6bc5c4cbd550d78896ab9317f72ce72858f712"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
@@ -1029,6 +1039,11 @@ hash = "b500ccc37090c11729d8d835058b8d7f0dbdd98ec83a75924ea84d8860587176"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "33ac8df50343a510256bb78c4dca99014fd4f88fdb548edd8aed6a3013f8947e"
+metafile = true
+
+[[files]]
 file = "mods/majrusz-library.pw.toml"
 hash = "0ef781c42a9409729bab1b76403b1a1dcd1eae6e22ebbdedab180acd2a64952c"
 metafile = true
@@ -1089,6 +1104,11 @@ hash = "b320c2f668b8789fd4d009899c7826862934129bb49f8cfc76a8164096020dce"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "0fad0a510a9ba1ae71e11cab7ea15010f2f0a74716b6264170dbbbdfc4fbd7a0"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
 metafile = true
@@ -1121,6 +1141,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
 metafile = true
 
 [[files]]
@@ -1209,8 +1234,18 @@ hash = "65ba55b95c910d696029b5e1c735241062ea80d5bad76e22e9e79697279cde30"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "1cb5ba542a089c3831e8661e0b4a088ffa0a7b3ca5e4962d77e9529962810d95"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "357853fc9fab5e7af2c09448a0928acb01cbbd71704d30add2b95a83fb541dec"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
-hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
@@ -1664,6 +1699,11 @@ hash = "0459cc802d3353342386dfe9455b99587a4dc39ca4007944d71d248517965754"
 metafile = true
 
 [[files]]
+file = "mods/time-in-a-bottle-universal.pw.toml"
+hash = "0a12d53bc09bb474181e4fe5d3ea00d2905a076036987f3262fccafb194d7f74"
+metafile = true
+
+[[files]]
 file = "mods/tinker-in-caves.pw.toml"
 hash = "27fc4541af2679960be0b8934a7fed9dd910ec36912572289843384e968f4e55"
 metafile = true
@@ -1766,6 +1806,11 @@ metafile = true
 [[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
