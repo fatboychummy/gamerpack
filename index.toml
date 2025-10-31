@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -1296,6 +1296,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "5f62a327932de16d603c5d922ff655069ac8fd8ccffb5f3f8b23f6cda4c04da0"
 metafile = true
 
 [[files]]
