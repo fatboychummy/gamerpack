@@ -1799,6 +1799,11 @@ hash = "4496eb26faf74128170281aa6bb8550207e7de818ccb742806e995ce03cbe9e3"
 metafile = true
 
 [[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
 metafile = true
