@@ -1739,11 +1739,6 @@ hash = "51a8da648db0c823f616ed1786eb665dae18f98c1ec4535f2a2c6b92bdecf3ca"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-delight.pw.toml"
-hash = "cff519ae5ce60a3b9773a26ecf0231122d7bc915caf440d5911275e735c90f1f"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-jewelry.pw.toml"
 hash = "bbc4abf2c1d841bc3df921ff10dcead30c0a8ed51649141e6107c960802675f0"
 metafile = true
