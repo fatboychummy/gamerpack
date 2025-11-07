@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
+hash = "aeb09515ade5a80cf857411942c7af6248b32449cabbc13324c645a35693fe78"
 metafile = true
 
 [[files]]
