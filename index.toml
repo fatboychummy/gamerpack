@@ -764,21 +764,6 @@ hash = "603b8fe672b8f62539763ee788341ede0c6441abe0cc3cf5f1b58c1094714b27"
 metafile = true
 
 [[files]]
-file = "mods/goety-cataclysm.pw.toml"
-hash = "f20c21eecd7491229a5fea3c76c215ba764041d4722d227356470f8b1896a8bc"
-metafile = true
-
-[[files]]
-file = "mods/goety-revelation.pw.toml"
-hash = "5c1fb34b3fd1f1905e64abac7eaa46744c67820d7c4344c806a9cb1c922fdb6a"
-metafile = true
-
-[[files]]
-file = "mods/goety.pw.toml"
-hash = "8e38f8add5ff2d6f335e5639943df370d3a745e8dd79fd9c41eb3ce9865c47da"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "0ffd4cabc4d73f62891f6a663da56691d720f395de1379586807f7b96cdbe239"
 metafile = true
