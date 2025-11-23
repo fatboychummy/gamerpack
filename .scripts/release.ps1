@@ -20,7 +20,7 @@ git tag $tagName
 Write-Host "Created $tagName"
 
 # Push branch + tag
-git push origin main
+git push origin master
 git push origin $tagName
 
 Write-Host "Release $tagName created and pushed successfully."
