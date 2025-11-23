@@ -1274,11 +1274,6 @@ hash = "65ba55b95c910d696029b5e1c735241062ea80d5bad76e22e9e79697279cde30"
 metafile = true
 
 [[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "1cb5ba542a089c3831e8661e0b4a088ffa0a7b3ca5e4962d77e9529962810d95"
-metafile = true
-
-[[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
 hash = "357853fc9fab5e7af2c09448a0928acb01cbbd71704d30add2b95a83fb541dec"
 metafile = true
