@@ -174,6 +174,11 @@ hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
+metafile = true
+
+[[files]]
 file = "mods/auroras.pw.toml"
 hash = "e8a46542130eaddda11acd3326146dd20963d590bbb7f419adc590b6eaaf1d6b"
 metafile = true
