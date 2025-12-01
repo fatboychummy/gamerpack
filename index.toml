@@ -299,6 +299,11 @@ hash = "1ee87d163a5ebb7b262032d7217d31a9727fea18c8814df02ad22b017cdd1e81"
 metafile = true
 
 [[files]]
+file = "mods/cc-androids.pw.toml"
+hash = "9cad81dcc829d75e7b874c5f261d388cc84a8f57c2de74fd1443f59256873d51"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "a9b13d984ba6aac71d25b24f171671456e75415ce4fe2ff43e7bb404594febd1"
 metafile = true
