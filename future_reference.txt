@@ -1,0 +1,22 @@
+# Future reference magical document for my rarted ass
+
+Use vscode script thingermajiger 'Create Release' to create a release (duh)
+
+packwiz commands:
+    packwiz init - create pacwkizium
+    packwiz list - list moderators
+    packwiz migrate - idfk, probably moves shit to forge or fabric
+    packwiz remove - you're braindead if you can't figure it out
+    packwiz update - update an external file, or all files (`-a`).
+    packwiz modrinth - see subcommands
+                     add - Adds a mod via a modrinth link
+                     export - Exports the modpack to a zip file or smth
+    packwiz curseforge - see subcommands
+                     add - Adds a mod via a curseforge link
+                     detect - Detects .jar files in the mods folder (oooOOOooOOoo experimental)
+                     import - Imports a curseforge style modpack
+                     export - Exports the modpack to a zip file or smth
+                     open - Opens project page for a mod (who needs google anyways)
+    packwiz url add - adds a mod (or file) via external URL --> [name] [url]
+    packwiz refresh - very importan -- use every change to update shit otherwise other shit breaks
+    packwiz serve - makes a definitely-not-development server that should be used on your VPS 100% trust
