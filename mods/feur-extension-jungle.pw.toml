@@ -1,0 +1,13 @@
+name = "Feur Extension Jungle"
+filename = "feur_extension_jungle-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uzp5QboY/versions/ImRRv2hF/feur_extension_jungle-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "741bdd6c77e72cac727e31da9e0a3fe9d4f2259dfc6535b55eb9ff21f03e2262a65d83badda633f3fab68fb20cfbbe10f8fe974ec804252ade2cc35a166e1bdf"
+
+[update]
+[update.modrinth]
+mod-id = "Uzp5QboY"
+version = "ImRRv2hF"

@@ -1,0 +1,13 @@
+name = "ToroHealth Damage Indicators (Updated)"
+filename = "torohealth-1.20.1-fabric-2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZGNeNIO/versions/4svmuvnn/torohealth-1.20.1-fabric-2.jar"
+hash-format = "sha512"
+hash = "ffa812a0d0986b9d106f6c7a7c7d1772f6c7a493dc228a629f8ee05a052ce03737c1dd6d73b1dce17cb8c133a22d9613d7417bbdc4e709ff73fb061289e638cb"
+
+[update]
+[update.modrinth]
+mod-id = "FZGNeNIO"
+version = "4svmuvnn"

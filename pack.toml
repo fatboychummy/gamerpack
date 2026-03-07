@@ -1,12 +1,12 @@
 name = "Gamerpack"
 author = "Fatboychummy"
-version = "0.0.0"
+version = "0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b0ae0a9e05c01e860298e6ce0243d800f8bcf953fbcd8df5033e482e345d144c"
+hash = "932275ff38f4f1baf86742abb380e361d2e5f3efa3107a9b4b69091a7477e265"
 
 [versions]
 fabric = "0.18.4"

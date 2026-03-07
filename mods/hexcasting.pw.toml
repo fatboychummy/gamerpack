@@ -1,0 +1,13 @@
+name = "Hex Casting"
+filename = "hexcasting-fabric-1.20.1-0.11.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66e7a27e6c39cc5e2d0d7496f190835f95ab7420"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7250893
+project-id = 569849

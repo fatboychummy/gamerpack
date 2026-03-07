@@ -1,0 +1,13 @@
+name = "Feur Extension Fossil"
+filename = "feur_extension_fossil-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yGr5XHdT/versions/YJR7rwx9/feur_extension_fossil-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "b1da9cdc6aa149cab3509c1e465330850907496f7b6172bbc53e86b31846bb00b729de5f65b6f29e151cd2c8bdb36f87f0bcc1b712d37b957b02146142b0ffeb"
+
+[update]
+[update.modrinth]
+mod-id = "yGr5XHdT"
+version = "YJR7rwx9"

@@ -1,0 +1,13 @@
+name = "Feur Extension Desert"
+filename = "feur_extension_desert-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qRG5vR8U/versions/yAclJXz8/feur_extension_desert-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "7d47dc2b2ea8e25031fa7e460f5bab6a1e7329ab728904b95e2e4a51d23ae872a1d9570a85c0bd47c455d9e6c439492181c99152fd215f637edfc7a5e570640f"
+
+[update]
+[update.modrinth]
+mod-id = "qRG5vR8U"
+version = "yAclJXz8"

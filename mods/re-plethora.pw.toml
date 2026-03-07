@@ -1,0 +1,13 @@
+name = "Re:Plethora"
+filename = "Plethora-Fabric-1.18.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uK8jwJSE/versions/72NB1zmF/Plethora-Fabric-1.18.5.jar"
+hash-format = "sha512"
+hash = "d2e3b67e6414549c2105104d03244f2d9d288db70408c0fefd098a036decaf10fd848231404b828e9072b2af22d4b8a67ed26efe906e97660210d9053759703d"
+
+[update]
+[update.modrinth]
+mod-id = "uK8jwJSE"
+version = "72NB1zmF"

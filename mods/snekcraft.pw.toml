@@ -1,0 +1,13 @@
+name = "Snekcraft"
+filename = "SnekCraft-Fabric-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CLkPPFSB/versions/ipidGgFZ/SnekCraft-Fabric-1.2.2.jar"
+hash-format = "sha512"
+hash = "ff1fbe6e72864d2dcbd759db181d9f08106326ceb035aca88a9cc822657bb2ca2563293f1c8cabce041df385218c7ef305e82ca8518f2532e0e1f5ba670c6ee7"
+
+[update]
+[update.modrinth]
+mod-id = "CLkPPFSB"
+version = "ipidGgFZ"
