@@ -5,6 +5,16 @@ $buildFile = "build.txt"
 $buildNumber = Get-Content $buildFile
 $newBuild = [int]$buildNumber + 1
 
+# Generate the packwiz zips
+try {
+    packwiz refresh
+    packwiz curseforge export -s server -o "builds/$newBuild-server.zip"
+    packwiz curseforge export -s client -o "builds/$newBuild-client.zip"
+} catch {
+    Write-Host "Error generating zips: $($_.Exception.Message)"
+    exit 1
+}
+
 # Write new build number
 Set-Content $buildFile $newBuild
 Write-Host "Updated build number to $newBuild"

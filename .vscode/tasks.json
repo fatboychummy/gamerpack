@@ -12,6 +12,18 @@
         ".scripts/release.ps1"
       ],
       "group": "build"
+    },
+    {
+      "label": "Create curseforge zips",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        ".scripts/zips.ps1"
+      ],
+      "group": "build"
     }
   ]
 }
