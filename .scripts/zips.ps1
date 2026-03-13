@@ -10,7 +10,12 @@ Write-Output "New Build: $newBuild"
 
 # Generate the packwiz zips
 try {
+    # Ensure the directory is empty
+    if (Test-Path "builds/$newBuild") {
+        Remove-Item "builds/$newBuild" -Recurse -Force
+    }
     mkdir "builds/$newBuild" -ErrorAction SilentlyContinue
+
     
     Write-Output "### Packwiz Refresh ###"
     packwiz refresh

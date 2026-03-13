@@ -121,11 +121,6 @@ hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
-file = "mods/create-diesel-generators-fabric-restitched.pw.toml"
-hash = "526bc4d124da6cb1c68d0164ec88cf0dcf355fa95cf6b465232d4955c9248196"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -238,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a42af2b10c3336d3fc77aa75661d3598609f6e70cdd3124467f873c386ff7424"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "3b8470bdcbf251c74b4f4a55db86a938c48df4ea0f0189bc4b6f170cde851359"
 metafile = true
 
 [[files]]
@@ -358,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b087d57e8f876873a4eaeacdb80166c03e5158fa95cb15ffe6aa9571b76bf9d2"
 metafile = true
 
 [[files]]
