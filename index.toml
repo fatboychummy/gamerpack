@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/comforts-server.toml"
+hash = "c8889f06cd2a57c20138174865567c18466153d4107319a917117e65f3401dc1"
+
+[[files]]
+file = "config/plethora.hocon"
+hash = "0f3643e540eda0da0b5cb7153d3875517e3ee3c96f6a6c8ea852a3bb6b04b1b0"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "c387d7a17e50942be77520c359efcd5ab411e1c0d45e4fbeef9f41339298eec7"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "f61033f5acde76e2405e9549ff54ccdf4d3dc24a9caca015720523f02ee91033"
 metafile = true
@@ -8,6 +20,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "9870f77dc7c79097b871ef30cf12c1f3f6f7ca87101c4d4c6584c00bcb5b569d"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
 metafile = true
 
 [[files]]
@@ -534,3 +551,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "173a032fac62dba4a4e3c265f5dc0b6b50050a0ef4ef4ba9937c41671ef939d7"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
