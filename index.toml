@@ -21,6 +21,10 @@ file = "defaultconfigs/computercraft-server.toml"
 hash = "eb1b11ac526ea2becc265c8ed4f7d315bb4cc90130235135c618ad09fdba1855"
 
 [[files]]
+file = "instance.cfg"
+hash = "406e96d44d975f2123ae09d16a8e3f9f99867a1885ed7cb436e77a4938dfea3c"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "f61033f5acde76e2405e9549ff54ccdf4d3dc24a9caca015720523f02ee91033"
 metafile = true
