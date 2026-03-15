@@ -13,6 +13,14 @@ file = "config/watut-common.toml"
 hash = "c387d7a17e50942be77520c359efcd5ab411e1c0d45e4fbeef9f41339298eec7"
 
 [[files]]
+file = "datapacks/plethoranerf.zip"
+hash = "48f3ad1affe3d46e7964ef54d3e621c8b88c64d753c043c692d46665c622124b"
+
+[[files]]
+file = "defaultconfigs/computercraft-server.toml"
+hash = "eb1b11ac526ea2becc265c8ed4f7d315bb4cc90130235135c618ad09fdba1855"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "f61033f5acde76e2405e9549ff54ccdf4d3dc24a9caca015720523f02ee91033"
 metafile = true

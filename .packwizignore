@@ -4,7 +4,7 @@
 .github/**
 .vscode/**
 .scripts/**
-*.zip
 builds/**
 build.txt
 future_reference.txt
+*.code-workspace

@@ -24,6 +24,18 @@
         ".scripts/zips.ps1"
       ],
       "group": "build"
+    },
+    {
+      "label": "Packwiz Refresh",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        ".scripts/refresh.ps1"
+      ],
+      "group": "build"
     }
   ]
 }
