@@ -1,6 +1,10 @@
 name = "Light Overlay (Rift/Forge/Fabric)"
 filename = "light-overlay-8.0.0.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+default = true
 
 [download]
 hash-format = "sha1"
