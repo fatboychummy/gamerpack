@@ -350,6 +350,11 @@ hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "887b2aae3cecc73d7ab4aa2676f52429fc4785f0c0462adf3b2344811b6839b6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
