@@ -545,6 +545,11 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "bc918e7a51bd6166d6f9d773eeabd41331b4a2929a971e1b0f41bb69f1248e5f"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true
